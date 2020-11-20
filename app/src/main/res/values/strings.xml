@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Session1</string>
+    <string name="write">Write:</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
